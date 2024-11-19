@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tejasreeobili
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning backend development and react.js.
+- ❤️ I'm learning java dsa.
 - ⚡ Fun fact: ...
 
 <!---
